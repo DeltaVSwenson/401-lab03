@@ -1,0 +1,24 @@
+{
+  "name": "401-lab03",
+  "version": "1.0.0",
+  "description": "LAB - 01\r Project 01\r Author: Jacob Swenson\r Links and Resources\r submission PR: https://github.com/DeltaVSwenson/401-lab01/pull/1\r travis: https://travis-ci.com/TheSwenson/cr-js-401d4\r back-end (when applicable)\r front-end (when applicable)\r Documentation\r api docs (API servers)\r jsdoc (Server assignments)\r styleguide (React assignments)\r Modules\r modulename.js\r Exported Values and Methods\r foo(thing) -> string\r Usage Notes or examples",
+  "main": "edit-file.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaVSwenson/401-lab03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeltaVSwenson/401-lab03/issues"
+  },
+  "homepage": "https://github.com/DeltaVSwenson/401-lab03#readme"
+}
